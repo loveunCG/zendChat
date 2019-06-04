@@ -1,0 +1,9 @@
+
+CREATE TABLE IF NOT EXISTS "chats"
+(
+    [id] INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    [from] NVARCHAR(120),
+    [to] NVARCHAR(120),
+    [message] NVARCHAR(191),
+    [created_at] DATETIME
+);
