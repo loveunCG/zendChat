@@ -33,7 +33,7 @@
         "font-awesome-picker": "^1.1.6",
         "laravel-echo": "^1.5.2",
         "moment": "^2.24.0",
-        "pug": "^2.0.3",
+        "pug": "^3.0.1",
         "scss-spacing": "^1.0.0",
         "socket.io-client": "^2.2.0",
         "tree-helper": "^1.0.5",
